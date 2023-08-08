@@ -27,7 +27,7 @@ Body:
     ]
 }
 HTTP/1.1 200 OK
-Date: Mon, 07 Aug 2023 15:52:28 GMT
+Date: Tue, 08 Aug 2023 06:29:46 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
@@ -40,10 +40,10 @@ Content-Type: application/json;charset=UTF-8
 
 {
     "status": "OK",
-    "place_id": "65f4b63f55ef1c052ba11fe496e9724c",
+    "place_id": "07559daa9ad52b9a7c0ca44582e2ce5e",
     "scope": "APP",
-    "reference": "6af621986ebcdaff8cb00c350e389e1a6af621986ebcdaff8cb00c350e389e1a",
-    "id": "6af621986ebcdaff8cb00c350e389e1a"
+    "reference": "38196267d455cd823838b6feafb4dc7e38196267d455cd823838b6feafb4dc7e",
+    "id": "38196267d455cd823838b6feafb4dc7e"
 }
 Request method:	PUT
 Request URI:	https://rahulshettyacademy.com/maps/api/place/update/json?key=qaclick123
@@ -58,12 +58,12 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:
 {
-    "place_id": "65f4b63f55ef1c052ba11fe496e9724c",
+    "place_id": "07559daa9ad52b9a7c0ca44582e2ce5e",
     "address": "70 Summer walk, USA",
     "key": "qaclick123"
 }
 HTTP/1.1 200 OK
-Date: Mon, 07 Aug 2023 15:52:29 GMT
+Date: Tue, 08 Aug 2023 06:29:47 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
@@ -78,11 +78,11 @@ Content-Type: application/json;charset=UTF-8
     "msg": "Address successfully updated"
 }
 Request method:	GET
-Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=65f4b63f55ef1c052ba11fe496e9724c
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=07559daa9ad52b9a7c0ca44582e2ce5e
 Proxy:			<none>
 Request params:	<none>
 Query params:	key=qaclick123
-				place_id=65f4b63f55ef1c052ba11fe496e9724c
+				place_id=07559daa9ad52b9a7c0ca44582e2ce5e
 Form params:	<none>
 Path params:	<none>
 Headers:		Accept=*/*
@@ -91,7 +91,7 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Mon, 07 Aug 2023 15:52:29 GMT
+Date: Tue, 08 Aug 2023 06:29:48 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST

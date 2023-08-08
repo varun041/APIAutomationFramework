@@ -1,1 +1,5 @@
+com/example/demo/TestData/TestDataBuilder.class
+com/example/demo/steps/Hooks.class
+com/example/demo/steps/StepsDefinition.class
+com/example/demo/Utils/Utils.class
 com/example/demo/runner/TestRunner.class

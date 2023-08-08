@@ -1,2 +1,4 @@
 com/example/demo/pojo/Location.class
+com/example/demo/pojo/UpdatePlace.class
+com/example/demo/Enum/LocationAPI.class
 com/example/demo/pojo/AddPlace.class
