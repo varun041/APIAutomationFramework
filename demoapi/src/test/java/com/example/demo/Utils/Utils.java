@@ -46,6 +46,7 @@ public class Utils {
         JsonPath js = new JsonPath(responsebody);
         String b = js.getString(key).toString();
        System.out.println(b);
+       System.out.println(b);
         return b;
     }
 }
