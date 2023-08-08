@@ -47,7 +47,6 @@ public class Utils {
         String b = js.getString(key).toString();
        System.out.println(b);
        System.out.println(b);
-       System.out.println(b);
         return b;
     }
 }
