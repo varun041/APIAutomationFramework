@@ -26,7 +26,7 @@ Feature: Validating place API's
             | 70 Summer walk, USA | qaclick123 |
 
 
-    @GetPlace @API
+    @GetPlace @API @GetPlaceAPI
     Scenario Outline: Verify if Get Place is being successfully added using GetPlaceAPI
         Given Get Place Payload
         When User Calls "GetPlaceAPI" with "GET" Http Request
